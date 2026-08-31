@@ -83,7 +83,7 @@ body{
     position:relative;
     display:flex;
     align-items:center;
-    background:url("images/hero.png") center/cover;
+    background:url("hero.png") center/cover;
 }
 
 .hero-overlay{
@@ -1615,7 +1615,7 @@ body{
     rgba(9, 30, 56, 0.475),
     rgba(8, 27, 51, 0.299)
     ),
-    url("images/cta.png");
+    url("cta.png");
 
     background-size:cover;
     background-position:center;
