@@ -2378,7 +2378,31 @@ body{
     transform: scale(1.1);
 }
 
+.cta-btn-email{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
 
+    background:#081B33;
+    color:whitesmoke;
+
+    padding:18px 28px;
+    border-radius:14px;
+
+    text-decoration:none;
+    font-weight:600;
+
+    border:2px solid #081B33;
+
+    transition:.3s;
+}
+
+.contact-email{
+    background:#081B33;
+    color:#ffffff;
+    border:1px solid #ffffff;
+}
 
 @media(max-width:768px){
 
